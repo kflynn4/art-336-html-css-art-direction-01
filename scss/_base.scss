@@ -9,7 +9,7 @@ html {
 }
 
 body {
-    color: #242424;
+    color: #fff;
     //box-sizing: border-box;
     @include body-font-regular;
     @include fontSize(20px);
